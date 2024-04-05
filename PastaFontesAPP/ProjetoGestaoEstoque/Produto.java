@@ -1,4 +1,4 @@
-
+// Cadastro de produtos comercializados
 public class Produto {
 
 	private double peso;
